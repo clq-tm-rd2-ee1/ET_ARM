@@ -61,7 +61,7 @@ void Visual_check(void)
 		case (17): //Gray Bar6: V16 
 		FPGA_DisPattern(33, 0, 0, 0); 
 		break; 
-		case (18): //Â´Å½Â¸Å„ 
+		case (18): //´®¸ñ 
 		FPGA_DisPattern(30, 127, 0, 0); 
 		break; 
 		case (19): //1*1 Bar(0-255-0) 
@@ -407,3 +407,18 @@ void pattern24_test(void)
 	 Pattern_check();
 //	 pattern24_test();
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
